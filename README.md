@@ -10,7 +10,6 @@ This is a web application for managing tours using the MERN (MongoDB, Express, R
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -77,7 +76,3 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Push your changes to your fork.
 5. Submit a pull request to the original repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
